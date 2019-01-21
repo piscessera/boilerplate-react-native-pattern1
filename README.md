@@ -30,6 +30,14 @@ index.js
 App.js
 ```
 
+How to use:
+
+```
+npm install
+react-native eject
+react-native run-android
+```
+
 This boilerplate main library:
 
 - redux
