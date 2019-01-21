@@ -1,0 +1,1 @@
+# react-native-pattern1-boilerplate
